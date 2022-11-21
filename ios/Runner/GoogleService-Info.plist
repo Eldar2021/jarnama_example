@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>478869567626-0oi1cqqi75pn590ma8h5u9kod816loqt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.478869567626-0oi1cqqi75pn590ma8h5u9kod816loqt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDPeuBktqy2wEotHdE3PJM9B-NBYgUeotU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>478869567626</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.jarnamaExample</string>
+	<key>PROJECT_ID</key>
+	<string>jarnama-example</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jarnama-example.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:478869567626:ios:ca701b7ec2d0c9cc13d573</string>
+</dict>
+</plist>
